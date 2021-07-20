@@ -4,7 +4,8 @@ sections:
   - type: hero_section
     title: Hello JAMStack Boston
     subtitle: Conference for Creative People
-    content: '**April 14 - 16, 2021**'
+    content: |
+      **Some date**
     actions:
       - label: Get Your Ticket Today!
         url: /about
