@@ -1,22 +1,6 @@
 ---
 title: Home
 sections:
-  - type: hero_section
-    title: Hello JAMStack Boston
-    subtitle: Conference for Creative People
-    content: |
-      **Some date**
-    actions:
-      - label: Get Your Ticket Today!
-        url: /about
-        style: primary
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image: images/hero-background.jpg
-    background_image_opacity: 15
-    background_image_size: cover
   - type: grid_section
     grid_items:
       - title: 2 Days
@@ -51,6 +35,22 @@ sections:
     enable_cards: false
     align: center
     background_color: secondary
+  - type: hero_section
+    title: Hello JAMStack Boston
+    subtitle: Conference for Creative People
+    content: |
+      **Some date**
+    actions:
+      - label: Get Your Ticket Today!
+        url: /about
+        style: primary
+    align: center
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
+    background_image: images/hero-background.jpg
+    background_image_opacity: 15
+    background_image_size: cover
   - type: features_section
     title: What you’ll experience
     features:
